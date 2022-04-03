@@ -1,3 +1,3 @@
 # SirmaTask
 
-#npm install before running the project
+npm install before running the project
